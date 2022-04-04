@@ -21,7 +21,7 @@ public class Pesquisa {
                 PessoasNervosa40 = 0, Calma18 = 0; // declaração de variáveis
 
         // Recebe e calcula se o número é par ou ímpar
-        while (C <= 3) {
+        while (C <= 150) {
             System.out.println(C + "ª Pessoa");
             System.out.println("========================================");
             System.out.println("                 IDADE                 ");
